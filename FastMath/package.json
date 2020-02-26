@@ -1,0 +1,11 @@
+{
+  "name": "FastMath the Sequel",
+  "version": "1.0.0",
+  "description": "Simple discord bot for a CTF",
+  "author": "Liam Geyer @Lfgberg#6323",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "package.json": "^2.0.1"
+  }
+}

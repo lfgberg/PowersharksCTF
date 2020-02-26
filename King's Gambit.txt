@@ -1,0 +1,11 @@
+8h 7h 6h 5h 4h 3h 2h 1h 2g 3f 4e 3d 2c 1b 2b 3b 4b 5b 6b 7b 8b
+
+4h 3g 3f 3e 3d 3c 3b 4a 2f 1e 1d 2c
+
+5e 5d 5c 5b 5a 6a 7a 8a 8b 8c 8d 8e 8f 8g 8h 7h 6h 5h 4h 3h 2h 1h 1g 1f 1e 1d 1c 1b 1a
+
+7g 6g 5g 4g 3g 3f 4e 5d 6c 7b 6b 5b 4b 3b 2b
+
+1h 2h 3h 4h 5h 6h 7h 8h 8g 8f 8e 8d 8c 8b 8a 7a 6a 5a 4a 3a 2a 1a
+
+1a 1b 1c 1d 1e 1f 1g 1h 2h 3h 4h 4g 4f 4e 4d 4c 4b 5b 6b 7b 7c 7d 7e 7f 7g 7h
