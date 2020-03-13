@@ -1,0 +1,30 @@
+body {
+  background-image: url('./chris.jpg');
+  background-repeat: no-repeat;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  text-shadow: 3px 2px grey;
+  color: white;
+  font-size: 3.5em;
+}
+table.hashes {
+  width: 500px;
+  text-align: left;
+  margin: auto auto;
+}
+table.hashes td, table.hashes th {
+  border: 1px solid #000000;
+  /* bonus: powershark{chris_is_in_space_what_will_he_do} */
+  padding: 3px 2px;
+}
+table.hashes tbody td {
+  font-size: 16px;
+}
+table.hashes tr:nth-child(even) {
+  background: #AAAAAA;
+}
+table.hashes tr:nth-child(odd) {
+  background: #708090;
+}

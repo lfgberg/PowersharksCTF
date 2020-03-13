@@ -1,0 +1,12 @@
+{
+  "name": "netcat_challenge",
+  "version": "1.0.0",
+  "description": "Node.js Netcat server for CTF on docker",
+  "author": "Liam Geyer @Lfgberg#6323",
+  "main": "index.js",
+  "dependencies": {
+    "netcat": "^1.4.0",
+    "vigenere": "^1.0.2",
+    "package.json": "^2.0.1"
+  }
+}
